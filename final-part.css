@@ -61,7 +61,7 @@ ul li a{
 }
 
 ul li a:hover{
-  color: orange;
+  color: rgb(255, 170, 0);
 }
 .search{
     width: 330px;
@@ -157,8 +157,8 @@ ul li a:hover{
 
 }
 .form{
-    width: 250px;
-    height: 380px;
+    width: 290px;
+    height: 480px;
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
     position: absolute;
     top: 100px;
@@ -301,10 +301,11 @@ section{
 /*section 1sr phase block----------starts-------------*/
 
 #contain-img-desc{
-    height: 800px;
+    height: 590px;
     background-color: aqua;
     display: flex;
     border: rgb(57, 57, 122) solid 3px;
+    margin-bottom: 50px;
 
 }
 .container-4img-desc{
@@ -315,7 +316,15 @@ section{
 }
 
 .img-part{
-    
+    height: 45%;
+    border: #0d62fb ridge 2px;
+    margin-top: 5px;
+}
+
+.desc{
+    height: 45%;
+    border: #0d62fb ridge 2px;
+    margin: 5px;
 }
 
 /*section 1sr phase block----------ends-------------*/
