@@ -1,0 +1,153 @@
+body{
+    background-color: rgb(27, 27, 114);
+}
+*{
+    color: white;
+}
+/*text for proverb started and......*/
+
+#proverb{
+    position: relative;
+    border: white solid 2px;
+    width: 95%;
+    height: 1000px;
+
+}
+#quote{
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-weight:lighter;
+    text-align: center;
+    text-decoration:none;
+    text-transform:lowercase ;
+    font-size: 115px;
+    padding-top: 200px;
+    padding-left: 1550px;    
+    padding-right: 1570px;
+    position:relative;
+}
+#change-txt{
+    color: yellow;
+    font-style: italic;
+
+}
+
+/* its ended here the pro-verb */
+
+#start-container{
+   position: relative;
+   margin-top: 30px;
+   border: whitesmoke dashed 15px;
+   height: 2700px;
+}
+
+.contain-outlook-statergy{
+    border: yellow solid 5px;
+    margin: 5px;
+    border-top-left-radius: 14%;
+    display: flex;
+    margin-left: 105px;
+    width: 93%;
+    height: 96%;
+    position:relative;
+    justify-content: space-around;
+
+    
+}
+.panel-1{
+    height: 90%;
+    border:greenyellow groove 2px;
+    margin-right: 200px;
+    
+    width:2300px;
+    padding: 40px;
+    position: relative;
+}
+#inc-font{
+    color: whitesmoke;
+    padding-right: 900px;
+    font-size: 90px;
+    text-transform: lowercase;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+}
+#txt-inc{
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    text-transform:lowercase;
+    font-weight:lighter;
+    font-size: 70px;
+    text-align: left;
+
+}
+.panel-2{
+    height: 90%;
+    border:greenyellow groove 2px;
+    border-radius: 25%;
+    width:max-content;
+    padding: 40px;
+}
+#out{
+    height: 1500px;
+}
+.object-img{
+    width: 90%;
+    height: max-content;
+    padding: 25px;
+    border: red ridge 2px;
+    object-fit: cover;
+}
+
+
+#explore-casrol-flex{
+   position: relative;
+   /*  top: auto;
+    display: flex;
+    justify-content: space-around;
+    border: white solid 3px;
+    width: 6000px;
+    height: 600px; */
+}
+
+.flex-4-img-desc{
+    border: white solid 2px;
+    padding: 5px;
+}
+
+#flex-contain-reviews{
+    position: relative;
+    top: auto;
+}
+
+#session-2txt-1btn{
+    position: relative;
+    top: auto;
+}
+
+#phase-3-slalomexp{
+    position: relative;
+    top: auto;
+}
+
+#phase-txtLeft-imgRight{
+    position: relative;
+    top: auto;
+}
+
+#container-lftimg-rgtanimation{
+    position: relative;
+    top: auto;
+}
+
+#endPhase-flex{
+    position: relative;
+    top: auto;
+}
+
+footer{
+    position: relative;
+    top: auto;
+}
