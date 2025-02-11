@@ -328,3 +328,24 @@ section{
 }
 
 /*section 1sr phase block----------ends-------------*/
+
+/*section 2nd phase block----------starts-------------*/
+#contain-lftimg-rgtinfo-flex{
+    display: flex;
+    height: 600px;
+    border: rgb(3, 255, 158) groove 4px;
+    margin: 6px;
+    margin-top: 15px;
+    
+    flex-wrap: wrap;
+    background-color: orange;
+    padding: 10px;
+    gap: 10px;
+
+}
+.container-lft-img-rgt-desc{
+    height: 90%;
+    width: 49.5%;
+    border: #02153a solid 2px;
+}
+/*section 2nd phase block----------ends-------------*/
