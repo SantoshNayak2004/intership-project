@@ -335,7 +335,8 @@ section{
     height: 600px;
     border: rgb(3, 255, 158) groove 4px;
     margin: 6px;
-    margin-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 12px;
     
     flex-wrap: wrap;
     background-color: orange;
